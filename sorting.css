@@ -5,7 +5,7 @@
 }
 
 
-/* .container{
+.container{
     height: 70vh;
     width: 100%;
     margin: 0 auto;
@@ -19,14 +19,14 @@
 .bars_container{
     display: flex;
     flex-direction: row;
-} */
+}
 
-/* .bar{
+.bar{
     width: 10px;
     background-color: rgb(37, 184, 184);
     margin: 0 3px;
     border-radius: 2px;
-} */
+}
 
 body{
     background-color: #00070e;
